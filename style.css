@@ -1,0 +1,14 @@
+
+.boxUser{
+    height: 150px;
+    width: 50%;
+    background-color: plum;
+    border-radius: 4px;
+    position: relative;
+}
+.userDel{
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
